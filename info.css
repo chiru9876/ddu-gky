@@ -1,0 +1,36 @@
+.chiru{
+    display:flex;
+}
+.img3{
+    margin-top: 20px;
+}
+.img4{
+    padding: 25px;
+}
+.line{
+    border:2px solid rgb(16, 193, 252);
+}
+.heading1{
+    text-align: center;
+    color:red;
+}
+.heading2{
+    text-align: center;
+    background-color: rgb(2, 192, 255);
+}
+.number{
+    text-align: center;
+}
+.table{
+    width: 1300px;
+}
+.color{
+    color: rgb(7, 181, 250);
+}
+body{
+    transform: scale(0.5,0.8);
+}
+.table{
+    margin-left: 10px;
+    margin-bottom: -2px;
+}
